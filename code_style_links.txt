@@ -1,0 +1,2 @@
+https://github.com/dry-python
+https://github.com/HackSoftware/Django-Styleguide
